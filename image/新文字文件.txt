@@ -1,0 +1,12 @@
+1.固定
+GAMMA = 0.99
+TAU = 0.001
+BATCH SIZE = 64
+episode = 1000
+調整 STEP:1000, 10000
+
+
+2.調整episode
+1000, 500
+
+3. learning rate
